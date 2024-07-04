@@ -1,0 +1,23 @@
+These terms govern your use of the services provided by Kurai.Tunes, referred to as "the Bot," created by MatyAlts, referred to as "the Provider."
+
+1.	Description of Services
+    The Bot provides music streaming from YouTube and Spotify to users' voice channels on Discord.
+
+2.	Non-commercial Use
+    The Bot is provided for personal, non-commercial use only. You agree not to use the Bot for any commercial purposes.
+
+3.	Data Collection
+    The Bot only collects and stores usernames necessary for operation and does not collect any other personal data from users.
+
+4.	Intellectual Property
+    All content provided by the Bot, including music streams, remains the intellectual property of their respective owners (YouTube and Spotify).
+
+5.	Limitation of Liability
+    The Provider assumes no liability for any damages or losses incurred through the use of the Bot. Use the Bot at your own risk.
+
+6.	Termination
+    The Provider reserves the right to terminate or suspend access to the Bot for any user at any time without notice and for any reason.
+    
+7.	Contact Information
+    For questions or concerns regarding these Terms of Service or the Bot, please contact the Provider via Instagram: @maty.torres_ or Discord: @matyaltz.
+
